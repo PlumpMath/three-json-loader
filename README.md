@@ -1,6 +1,7 @@
 # three-js-loader
 
 Loads mesh data from a JSON file, importing it into the scene. Relies on ThreeJS.
+The data format expected is produced by [obj-json-parser](https://www.npmjs.com/package/obj-json-parser).
 
 Example:
 ```javascript
